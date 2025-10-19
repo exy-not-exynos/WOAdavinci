@@ -19,5 +19,5 @@ This project is in an early stage, all the files here have been contributed by o
 - [中文](language/chinese.md)
 
 ## Contributors
-
-
+idea - @exy-not-exynos
+Main contributor - @Sunflower2333
