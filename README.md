@@ -1,6 +1,7 @@
 <img align="right" src="https://raw.githubusercontent.com/graphiks/woa-raphael/main/media/raphael.png" width="350" alt="Windows 11 running on davinci">
 
 # WOAdavinci
+
 # Running Windows on the Mi 9T/Redmi K20
 
 ## ⚠️ Warning
@@ -11,16 +12,24 @@ This project is in an early stage, all the files here have been contributed by o
 
 **IF YOU AREN'T COMFORTABLE MODDING YOUR PHONE OR ITS PARTITION TABLE OR YOU ARE PARANOID OF BRICKING YOUR DEVICE CLICK AWAY NOW!!! YOU HAVE BEEN WARNED, YOU ARE ON YOUR OWN IF YOU BRICK YOUR DEVICE!!! AGAIN! YOU HAVE BEEN WARNED!!!**
 
+## Get Started
 
-## Choose you language
+- [Project status](guide/status.md)
 
-- [English](language/english.md)
+- [Troubleshooting](guide/troubleshooting.md)
 
-- [Русский](language/russian.md)
+## Miscellaneous
 
-- [中文](language/chinese.md)
+- [Dualboot setup](guide/dualboot.md) 
+
+- [Optional post-install stuff](guide/postinstall.md)
+
+- [Reinstall instructions](guide/reinstall.md)
+
+- [Uninstall instructions](guide/uninstall.md)
 
 ## Contributors
+
 idea - https://github.com/exy-not-exynos
 
 Main contributor - https://github.com/Sunflower2333
